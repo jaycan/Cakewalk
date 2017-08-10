@@ -1,0 +1,215 @@
+body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c9/45/82/c9458273a948dbcf519e90355cb11a34.jpg");
+}
+
+#main {
+width: 1000px;
+height: 3200px;
+background-color: #ffffff;
+padding-top:10px;
+padding-left: 50px;
+padding-right: 50px;
+}
+
+#name {
+  font-size: 100px;
+  font-family: 'Cookie', cursive;
+  color: #ff72d7;
+}
+
+#quote {
+  font-size: 75px;
+  font-family: 'Cookie', cursive;
+  color: #ff72d6;
+}
+
+#menu {
+  font-size: 50px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#first {
+  width: 475px;
+  height: 2250px;
+  margin-left: -500px;
+}
+
+
+#cakes {
+  width: 475px;
+  height: 55px;
+  background-color: #ff72d7;
+  font-size: 25px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#cake_menu {
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#cupcakes {
+  width: 475px;
+  height: 55px;
+  background-color: #ff72d7;
+  font-size: 25px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#cupcake_menu {
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#pies {
+  width: 475px;
+  height: 55px;
+  background-color: #ff72d7;
+  font-size: 25px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#pie_menu {
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#cookies {
+  width: 475px;
+  height: 55px;
+  background-color: #ff72d7;
+  font-size: 25px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#cookie_menu {
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#other {
+  width: 475px;
+  height: 55px;
+  background-color: #ff72d7;
+  font-size: 25px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#other_menu {
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#second {
+  width: 475px;
+  height: 2000px;
+  margin-top: -2000px;
+  margin-right: -1000px;
+}
+
+#carrot {
+  width: 250px;
+  height: 175px;
+  margin-bottom: 5px;
+}
+
+#sponge {
+  width: 250px;
+  height: 160px;
+  margin-top: 5px;
+}
+
+#strawberry {
+  width: 165px;
+  height: 250px;
+  margin-top: 5px;
+}
+
+#blueberry {
+  width: 160px;
+  height: 250px;
+  margin-top: 5px;
+}
+
+#pie {
+  width: 200px;
+  height: 150px;
+  margin-top: 5px;
+}
+
+#chocolate {
+  width: 200px;
+  height: 150px;
+  margin-top: 5px;
+}
+
+#brownie {
+  width: 250px;
+  height: 175px;
+  margin-top: 5px;
+}
+
+#lime {
+  width: 250px;
+  height: 155px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#cream {
+  width: 200px;
+  height: 125px;
+}
+
+#oat {
+  width: 200px;
+  height: 150px;
+  margin-top: 5px;
+}
+
+#parfait {
+  width: 300px;
+  height: 180px;
+  margin-top: 5px;
+}
+
+#tart {
+  width: 300;
+  height: 175px;
+  margin-top: 5px;
+}
+
+#line {
+  width: 1000px;
+  height: 100px;
+  margin-top: -300px;
+}
+
+#follow {
+  font-size: 20px;
+  font-family: 'Rock Salt', cursive;
+}
+
+.media {
+  height: 150px;
+  width: 150px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+#table {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Rock Salt', cursive;
+}
+
+a {
+  color: #ff72d7;
+  text-decoration: none;
+}

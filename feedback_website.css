@@ -1,0 +1,164 @@
+body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c9/45/82/c9458273a948dbcf519e90355cb11a34.jpg");
+}
+
+#home {
+  font-size: 50px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#main {
+width: 1000px;
+height: 2100px;
+background-color: #ffffff;
+padding-top:10px;
+padding-left: 50px;
+padding-right: 50px;
+}
+
+#name {
+  font-size: 100px;
+  font-family: 'Cookie', cursive;
+  color: #ff72d7;
+}
+
+#quote {
+  font-size: 75px;
+  font-family: 'Cookie', cursive;
+  color: #ff72d6;
+}
+
+#first {
+  width: 950px;
+  height: 100px;
+  background-color: #b5cdff;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+  margin-bottom: 15px;
+}
+
+#second {
+  width: 950px;
+  height: 100px;
+  background-color: #fff8b3;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+  margin-bottom: 15px;
+}
+
+#third {
+  width: 950px;
+  height: 100px;
+  background-color: #b3ffbe;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+  margin-bottom: 15px;
+}
+
+#fourth {
+  width: 950px;
+  height: 100px;
+  background-color: #ffb4f1;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+  margin-bottom: 15px;
+}
+
+#fifth {
+  width: 950px;
+  height: 100px;
+  background-color: #c4fff1;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+  margin-bottom: 15px;
+}
+
+#sixth {
+  width: 950px;
+  height: 100px;
+  background-color: #ffb3b3;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+  margin-bottom: 15px;
+}
+
+#seven {
+  width: 950px;
+  height: 110px;
+  background-color: #f0c4ff;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+  margin-bottom: 15px;
+}
+
+#textbox {
+  width: 975px;
+  height: 200px;
+  background-color: #b7acac;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 20px;
+  font-family: 'Rock Salt', cursive;
+}
+
+#text {
+  width: 900px;
+  height: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+  text-align: center;
+}
+
+
+#line {
+  width: 1000px;
+  height: 100px;
+  margin-top: 25px;
+}
+
+#follow {
+  font-size: 20px;
+  font-family: 'Rock Salt', cursive;
+}
+
+.media {
+  height: 150px;
+  width: 150px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+#table {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Rock Salt', cursive;
+}
+
+a {
+  color: #ff72d7;
+  text-decoration: none;
+}

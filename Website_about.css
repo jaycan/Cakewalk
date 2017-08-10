@@ -1,0 +1,97 @@
+body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c9/45/82/c9458273a948dbcf519e90355cb11a34.jpg");
+}
+
+#main {
+width: 1000px;
+height: 2250px;
+background-color: #ffffff;
+padding-top:10px;
+padding-left: 50px;
+padding-right: 50px;
+}
+
+#name {
+  font-size: 100px;
+  font-family: 'Cookie', cursive;
+  color: #ff72d7;
+}
+
+#quote {
+  font-size: 75px;
+  font-family: 'Cookie', cursive;
+  color: #ff72d6;
+}
+
+#tab {
+  border: 3px solid #ff72d7;
+  border-color: #ff72d7;
+}
+
+.row {
+  height: 150px;
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'Rock Salt', cursive;
+  background-color: #000000;
+}
+
+.td {
+  width: 450px;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Rock Salt', cursive;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+#paragraph {
+  margin-top: 50px;
+  font-size: 15px;
+  font-family: 'Rock Salt', cursive;
+  width: 950px;
+  height: 500px;
+  margin-bottom: 170px;
+  text-align: left;
+}
+
+#bakery {
+  margin-top: 10px;
+  width: 700px;
+  height: 450px;
+  margin-left: 125px;
+}
+
+#line {
+  width: 1000px;
+  height: 100px;
+  margin-top: 200px;
+}
+
+#follow {
+  font-size: 20px;
+  font-family: 'Rock Salt', cursive;
+}
+
+.media {
+  height: 150px;
+  width: 150px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+#table {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Rock Salt', cursive;
+}
+
+a {
+  color: #ff72d7;
+  text-decoration: none;
+}
+
+#AAAA {
+  color: #ff72d7;
+}
